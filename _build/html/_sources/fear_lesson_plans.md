@@ -25,6 +25,6 @@ Click here to view video materials
 1. [Cell Amygdala Salivation Model](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.1.ipynb)
 2. [What is Tone and Shock](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.2.ipynb)
 3. [What is The Calcium Learning Rule?](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.3.ipynb)
-4. [What is Learning](https://github.com/GregGlickert/Fear-Lesson-Plans/blob/master/D1/D1.4.ipynb)
+4. [What is Learning](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.4.ipynb)
 5. [Fear Circuit Simulation](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/Fear_Breadboard_Circuit.ipynb)
 
