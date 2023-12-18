@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+chapters:
+- file: single_cell
+- file: networks
+- file: automation
+- file: teaching
+  sections:
+  - file: fear_lesson_plans
