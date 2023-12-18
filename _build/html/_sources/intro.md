@@ -1,3 +1,0 @@
-# Neural Engineering Laboratory – Resources
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus turpis eu enim sodales, quis condimentum justo euismod. In dictum id turpis laoreet facilisis. Sed sed vestibulum enim. Quisque sollicitudin dui lorem, quis accumsan odio laoreet in. Sed nibh sapien, lacinia eu erat at, placerat scelerisque purus. Curabitur mauris elit, faucibus sed ligula gravida, vulputate bibendum magna. Duis erat lorem, congue sodales mi id, egestas ornare nulla. Sed ut dignissim orci. Vestibulum non lacus lectus. Nullam convallis convallis dui eget lacinia. Nullam maximus fermentum turpis, eu hendrerit felis luctus finibus. Aenean congue auctor felis, sed eleifend est maximus non. Sed auctor bibendum sollicitudin.
