@@ -1,5 +1,6 @@
-# Book settings
-# Learn more at https://jupyterbook.org/customize/config.html
+# More options at:
+# https://jupyterbook.org/customize/config.html
+# https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/index.html
 
 title: Neural Engineering Laboratory – Resources
 author: Neural Engineering Laboratory
@@ -10,6 +11,45 @@ logo: logo.png
 execute:
   execute_notebooks: force
 
+# Overwrite theme options
+sphinx:
+  config:
+    # Change the theme to PyData
+    html_theme: pydata_sphinx_theme
+
+    html_context:
+      # Set the GitHub repo (useful if we want to add "Edit on GitHub" buttons)
+      github_user: cyneuro
+      github_repo: cyneuro-resources
+      github_version: main
+
+    html_theme_options:
+      # Display "Edit on GitHub" buttons
+      use_edit_page_button: false
+
+      # Add text to the logo
+      logo:
+        text: CyNeuro
+      
+      # Add icons to the top-right corner
+      icon_links: 
+        - name: GitHub
+          url: https://github.com/cyneuro
+          icon: fa-brands fa-github
+          type: fontawesome
+        - name: CyNeuro Website
+          url: https://nairs.mufaculty.umsystem.edu/cyneuro
+          icon: fa-solid fa-globe
+          type: fontawesome
+
+    # Set the logo; should match the logo above; 
+    # the logo above copies the file to the right folder on building and
+    # html_logo displays the copied file
+    html_logo: logo.png
+
+    # Display "Show source" buttons
+    html_show_sourcelink: false
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
@@ -18,19 +58,3 @@ latex:
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
   - references.bib
-
-# Information about where the book exists on the web
-repository:
-  url: https://github.com/cyneuro/cyneuro-resources  # Online location of your book
-  path_to_book: ""  # Optional path to your book, relative to the repository root
-  branch: main  # Which branch of the repository should be used when creating links (optional)
-
-# Add GitHub buttons to your book
-# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
-
-sphinx:
-  config:
-    html_theme: pydata_sphinx_theme

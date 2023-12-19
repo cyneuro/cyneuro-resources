@@ -1,9 +1,13 @@
 format: jb-book
+
+# Start page
 root: intro
+
+# Chapters are displayed on the top bar
 chapters:
 - file: single_cell
 - file: networks
 - file: automation
-- file: teaching
+- file: teaching/teaching
   sections:
-  - file: fear_lesson_plans
+  - file: teaching/fear_lesson_plans
