@@ -1,4 +1,4 @@
-(content:teaching:hs:fear_lesson_plans)=
+(content:training:hs:fear_lesson_plans)=
 # Fear Learning for High School
 
 ## Materials

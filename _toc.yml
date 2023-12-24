@@ -8,7 +8,7 @@ chapters:
 - file: single_cell
 - file: networks
 - file: automation
-- file: teaching/teaching
+- file: training/training
   sections:
-  - file: teaching/fear_lesson_plans
-  - file: teaching/med_curr
+  - file: training/fear_lesson_plans
+  - file: training/med_curr
