@@ -1,4 +1,4 @@
-# Teaching
+# Training
 
 **Neuroscience Curriculum for High School**
 
@@ -6,7 +6,7 @@
 :gutter: 2
 
 :::{grid-item-card} Fear Learning for High School
-:link: content:teaching:hs:fear_lesson_plans
+:link: content:training:hs:fear_lesson_plans
 :link-type: ref
 Short description.
 :::
@@ -25,7 +25,7 @@ Coming soon!
 :gutter: 2
 
 :::{grid-item-card} Medical Curriculum
-:link: content:teaching:med:med_curr
+:link: content:training:med:med_curr
 :link-type: ref
 Short description.
 :::

@@ -1,4 +1,4 @@
-(content:teaching:med:med_curr)=
+(content:training:med:med_curr)=
 # Medical Curriculum
 
 ## Materials
