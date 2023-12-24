@@ -1,5 +1,5 @@
-(content:teaching:fear_lesson_plans)=
-# Fear Lesson Plans
+(content:teaching:hs:fear_lesson_plans)=
+# Fear Learning for High School
 
 ## Materials
 
@@ -22,9 +22,11 @@ Click here to view video materials
 
 ## Interactive Notebooks in Google Colab
 
-1. [Cell Amygdala Salivation Model](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.1.ipynb)
-2. [What is Tone and Shock](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.2.ipynb)
-3. [What is The Calcium Learning Rule?](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.3.ipynb)
-4. [What is Learning](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.4.ipynb)
+Refer to the corresponding documents in reading materials for instructions.
+
+1. [(D1) Cell Amygdala Salivation Model](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.1.ipynb)
+2. [(D2) What is Tone and Shock](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.2.ipynb)
+3. [(D3) What is The Calcium Learning Rule?](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.3.ipynb)
+4. [(D4) What is Learning](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/D1.4.ipynb)
 5. [Fear Circuit Simulation](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/Fear_Breadboard_Circuit.ipynb)
 

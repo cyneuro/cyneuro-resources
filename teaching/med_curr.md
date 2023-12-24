@@ -1,5 +1,5 @@
-(content:teaching:hs:fear_lesson_plans)=
-# Fear Learning for High School
+(content:teaching:med:med_curr)=
+# Medical Curriculum
 
 ## Materials
 
@@ -7,7 +7,7 @@
 :gutter: 2
 
 :::{grid-item-card} &#128218; Reading
-:link: https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmailmissouri-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fnairs_umsystem_edu%2FEh8xE4yJdPpLueaxefdjDfABc2UGfOQy9F3Z-5PLtJa9fQ%3Fe%3D96zVWS&data=05%7C02%7Cvovwm%40missouri.edu%7C75be49c949a64283d43b08dbff8423b2%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C638384715222225268%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nHft1Df0SLgilSak%2FeO%2F8k7bdgAH%2FbcgwWHKr4JGg50%3D&reserved=0
+:link: https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmailmissouri-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fnairs_umsystem_edu%2FEvu52RwbHiNEu3iTK8bAS5kBHN4q14nu_3LDmFu9Oeib5g%3Femail%3Dvovwm%2540missouri.edu%26e%3D5%253a2yyv8R%26fromShare%3Dtrue%26at%3D9&data=05%7C02%7Cvovwm%40missouri.edu%7C06a52fef25f245ec7a6908dc0422f5c1%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C638389795404261830%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ig5BlHy5H6UdBIa962A0zZro5RJwNabI0aL5Rr98%2BFI%3D&reserved=0
 
 Click here to view reading materials
 :::
