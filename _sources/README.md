@@ -1,11 +1,11 @@
 # CyNeuro Resources
 
 Useful links:
-    - [jupyter-book](https://jupyterbook.org/en/stable/intro.html) official documentation, provides detailed instructions on how to add, edit, and publish content.
-    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a guide to editing markdown files. 
-    - [PyData theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/index.html) official documentation, provides instructions on advanced UI settings. 
-    - [fontawesome](https://fontawesome.com), a collection of icons used on the web (useful for navigation bar links).
-    - [decodeunicode](https://decodeunicode.org/en), number codes for free unicode symbols and emojis. 
+- [jupyter-book](https://jupyterbook.org/en/stable/intro.html) official documentation, provides detailed instructions on how to add, edit, and publish content.
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), a guide to editing markdown files. 
+- [PyData theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/index.html) official documentation, provides instructions on advanced UI settings. 
+- [fontawesome](https://fontawesome.com), a collection of icons used on the web (useful for navigation bar links).
+ - [decodeunicode](https://decodeunicode.org/en), number codes for free unicode symbols and emojis. 
     
 
 ## Requirements
