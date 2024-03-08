@@ -37,3 +37,22 @@ Coming soon!
 :::
 
 ::::
+
+**Machine Learning & AI Camp**
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item-card} Neural Networks
+:link: content:training:camps:mlai_camp
+:link-type: ref
+Short description.
+:::
+
+:::{grid-item-card} TBA
+:link: none
+:link-type: ref
+Coming soon!
+:::
+
+::::
