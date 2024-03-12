@@ -16,7 +16,7 @@
 
 Refer to the corresponding documents in reading materials for instructions.
 
-1. [(D1) Cell Amygdala Salivation Model](https://colab.research.google.com/github/gregglickert/Fear-Lesson-Plans/blob/master/Lesson-1-What-is-Fear/What-is-Fear.ipynb))
+1. [(D1) Cell Amygdala Salivation Model](https://colab.research.google.com/github/gregglickert/Fear-Lesson-Plans/blob/master/Lesson-1-What-is-Fear/What-is-Fear.ipynb)
 2. [(D2) What is Tone and Shock](https://colab.research.google.com/github/gregglickert/Fear-Lesson-Plans/blob/master/Lesson-2-How-do-Tone-Shock-pair/Intro-to-Tone-Shock.ipynb)
 3. [(D3) What is The Calcium Learning Rule?](https://colab.research.google.com/github/gregglickert/Fear-Lesson-Plans/blob/master/Lesson-3-How-Ca-impacts-learning/Calcium-Rule.ipynb)
 4. [(D4) What is Learning](https://colab.research.google.com/github/gregglickert/Fear-Lesson-Plans/blob/master/Lesson-4-1.4/D1.4.ipynb)
