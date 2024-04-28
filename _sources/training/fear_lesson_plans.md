@@ -1,16 +1,17 @@
 (content:training:hs:fear_lesson_plans)=
 # Fear Learning for High School
 
-## 📚 Reading
+
+## 📹 SLIDES & VIDEO
+
+1. [Activity: Sketch your fear circuit](https://www.youtube.com/watch?v=AiQh8wUmppM) [&      Video](https://youtu.be/AiQh8wUmppM?)
+2. [What is fear? Reward?](https://www.youtube.com/watch?v=9P9Ka_ALStA) [&      Video](https://youtu.be/AiQh8wUmppM?)
+3. [How are tone? shock? modeled](https://www.youtube.com/watch?v=6CHLNeBp2N8) [&      Video](https://youtu.be/AiQh8wUmppM?)
+4. [D1.1 Video](https://youtu.be/PNbMSMyn_OI?si=jcmwb3BQcxxf0UiR) [&      Video](https://youtu.be/AiQh8wUmppM?)
+
+## 📚 TEACHER RESOURCES
 
 > [Click here to view reading materials](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmailmissouri-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fnairs_umsystem_edu%2FEh8xE4yJdPpLueaxefdjDfABc2UGfOQy9F3Z-5PLtJa9fQ%3Fe%3D96zVWS&data=05%7C02%7Cvovwm%40missouri.edu%7C75be49c949a64283d43b08dbff8423b2%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C638384715222225268%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nHft1Df0SLgilSak%2FeO%2F8k7bdgAH%2FbcgwWHKr4JGg50%3D&reserved=0)
-
-## 📹 Videos
-
-1. [Activity: Sketch your fear circuit](https://www.youtube.com/watch?v=AiQh8wUmppM)
-2. [What is fear? Reward?](https://www.youtube.com/watch?v=9P9Ka_ALStA)
-3. [How are tone? shock? modeled](https://www.youtube.com/watch?v=6CHLNeBp2N8)
-4. [D1.1 Video](https://youtu.be/PNbMSMyn_OI?si=jcmwb3BQcxxf0UiR)
 
 ## ⌨️ Interactive Notebooks in Google Colab
 
