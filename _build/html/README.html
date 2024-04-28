@@ -445,7 +445,7 @@ pip<span class="w"> </span>install<span class="w"> </span>ghp-import
 <ol class="arabic simple">
 <li><p>Create a file and save it somewhere in the repository (or edit an exsisting file).</p></li>
 <li><p>Add the path to the file to <code class="docutils literal notranslate"><span class="pre">_toc.yml</span></code> (<a class="reference external" href="https://jupyterbook.org/en/stable/structure/toc.html">rules</a>). If the path is already in the <code class="docutils literal notranslate"><span class="pre">_toc.yml</span></code>, skip this step.</p></li>
-<li><p>Go to the directory containing the <code class="docutils literal notranslate"><span class="pre">cyneuro-resources</span></code> repo. Rebuild the pages with</p></li>
+<li><p>Go to the directory containing the <code class="docutils literal notranslate"><span class="pre">cyneuro-resources</span></code> repo, i.e., go one level above the cyneuro-resources folder. Rebuild the pages with</p></li>
 </ol>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>jupyter-book<span class="w"> </span>build<span class="w"> </span>cyneuro-resources
 </pre></div>
@@ -459,7 +459,7 @@ git<span class="w"> </span>push
 </pre></div>
 </div>
 <ol class="arabic simple" start="5">
-<li><p>Publish the compiled HTML files with</p></li>
+<li><p>Go to cyneuro-resources folder. Then publish the compiled HTML files with</p></li>
 </ol>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>ghp-import<span class="w"> </span>-n<span class="w"> </span>-p<span class="w"> </span>-f<span class="w"> </span>_build/html
 </pre></div>
