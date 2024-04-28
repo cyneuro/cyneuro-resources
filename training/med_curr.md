@@ -1,4 +1,4 @@
-(content:training:med:med_curr2)=
+(content:training:med:med_curr)=
 # Medical Curriculum
 
 ## 📹 SLIDES
