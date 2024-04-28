@@ -1,7 +1,7 @@
 (content:training:med:med_curr)=
 # Medical Curriculum
 
-## 📹 SLIDES& VIDEO
+## 📹 SLIDES & VIDEO
 
 1. [What is a Neuron](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EUL_jvsw1GdJrisQvCi-0-YBSekMvO-A1CXXpqxHf6jvzA?e=G2hzNu)
 3. [What is Fear, Reward](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EWNXOl1Z25lLpw3BMxhkHfIBtP--z-iFX2HayEOA2fCQbg?e=aoukYa) [&      Video](https://youtu.be/AiQh8wUmppM?list=PL4pOjgKUTvtF-qn4XFAaIhZ9bXvxH9WY0)
