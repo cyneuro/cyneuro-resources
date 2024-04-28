@@ -22,7 +22,7 @@ We can use `jupyter-book` to build the pages from source and `ghp-import` to pub
 
 1. Create a file and save it somewhere in the repository (or edit an exsisting file).
 2. Add the path to the file to `_toc.yml` ([rules](https://jupyterbook.org/en/stable/structure/toc.html)). If the path is already in the `_toc.yml`, skip this step.
-3. Go to the directory containing the `cyneuro-resources` repo. Rebuild the pages with
+3. Go to the directory containing the `cyneuro-resources` repo, i.e., go one level above the cyneuro-resources folder. Rebuild the pages with
 ```bash
 jupyter-book build cyneuro-resources
 ```
@@ -34,7 +34,7 @@ git add .
 git commit -m 'type a message'
 git push
 ```
-5. Publish the compiled HTML files with
+5. Go to cyneuro-resources folder. Then publish the compiled HTML files with
 ``` bash
 ghp-import -n -p -f _build/html
 ```
