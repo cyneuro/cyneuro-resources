@@ -1,4 +1,4 @@
-(content:training:med:med_curr)=
+(content:training:med:med_curr2)=
 # Medical Curriculum
 
 ## 📚 Reading
