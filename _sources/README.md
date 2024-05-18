@@ -35,6 +35,6 @@ git commit -m 'type a message'
 git push
 ```
 5. Go to cyneuro-resources folder. Then publish the compiled HTML files with
-``` bash
+```ju bash
 ghp-import -n -p -f _build/html
 ```
