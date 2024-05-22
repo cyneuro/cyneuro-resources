@@ -29,3 +29,4 @@ $\text{ }$
 
 ## Google Colabs – Python Basics
 1. [Introduction to Jupyter Notebook, Markdown and Python](https://colab.research.google.com/drive/1z3TG2W3RYU6ItaGRwTRUz9zLvaJqI1Ix?usp=sharing)
+2. [Tools for EDA: `numpy`, `pandas`, `matplotlib`](https://colab.research.google.com/drive/1Ho_1nLRHdXRPdt3RlbqXb6_nN-widgoH?usp=sharing)
