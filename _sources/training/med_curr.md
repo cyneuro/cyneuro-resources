@@ -29,4 +29,6 @@ $\text{ }$
 
 ## Google Colabs – Python Basics
 1. [Introduction to Jupyter Notebook, Markdown and Python](https://colab.research.google.com/drive/1z3TG2W3RYU6ItaGRwTRUz9zLvaJqI1Ix?usp=sharing)
-2. [Tools for EDA: `numpy`, `pandas`, `matplotlib`](https://colab.research.google.com/drive/1Ho_1nLRHdXRPdt3RlbqXb6_nN-widgoH?usp=sharing)
+2. [`micro:bit` projects](https://microbit.org/projects/make-it-code-it/)
+3. [Tools for EDA: `numpy`, `pandas`, `matplotlib`](https://colab.research.google.com/drive/1Ho_1nLRHdXRPdt3RlbqXb6_nN-widgoH?usp=sharing)
+4. Homework (due 05/31/24 5:00 PM) – [assignment](https://colab.research.google.com/drive/1eEzsXDS-AlIdfF9UQ6CNjSreIq639lRR?usp=sharing), [submission link](https://mailmissouri-my.sharepoint.com/:f:/g/personal/vovwm_umsystem_edu/EjelOsqjoPtOo0Cw_qPZ80YBqLXd8JpaFePmbVAvIZiqdw).
