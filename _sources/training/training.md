@@ -8,13 +8,11 @@
 :::{grid-item-card} Fear Learning for High School
 :link: content:training:hs:fear_lesson_plans
 :link-type: ref
-Short description.
 :::
 
-:::{grid-item-card} TBA
-:link: none
+:::{grid-item-card} Coding using micro:bit – I
+:link: content:training:hs:microbit-1
 :link-type: ref
-Coming soon!
 :::
 
 ::::
