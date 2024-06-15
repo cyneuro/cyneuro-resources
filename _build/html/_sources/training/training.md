@@ -25,13 +25,11 @@
 :::{grid-item-card} Medical Curriculum
 :link: content:training:med:med_curr
 :link-type: ref
-Short description.
 :::
 
-:::{grid-item-card} TBA
-:link: none
+:::{grid-item-card} NSF RET Program
+:link: content:training:nsf_ret:nsf_ret
 :link-type: ref
-Coming soon!
 :::
 
 ::::
