@@ -6,8 +6,9 @@
 
 <a href="https://mailmissouri-my.sharepoint.com/:f:/g/personal/vovwm_umsystem_edu/EmtU-zOYxOhPsMoKfXNnhlsB2AE5dsBfM7u94QudCKerZw" target="_blank">Research and Curriculum Weekly Updates</a>
 
-Office Hours: David .....   Matt ....
-Matt .....
+Zoom Office Hours: Monday 1-2 pm (David), Tuesday 9-10 am (Matt),  Wed 4-5 pm (David),  Thurs 11-12 noon (Matt)
+<a href="https://umsystem.zoom.us/j/7870965682?pwd=Qlp1UFRDV0JRdk1VVDBGQzh2Nm9KQT09" target="_blank">David's Zoom Link      
+<a href="https://mailmissouri-my.sharepoint.com/:f:/g/personal/vovwm_umsystem_edu/EmtU-zOYxOhPsMoKfXNnhlsB2AE5dsBfM7u94QudCKerZw" target="_blank">Matt's Zoom Link
 
 ## Resources for K-12 teachers
 
