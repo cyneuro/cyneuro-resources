@@ -6,7 +6,7 @@
 
 <a href="https://mailmissouri-my.sharepoint.com/:f:/g/personal/vovwm_umsystem_edu/EmtU-zOYxOhPsMoKfXNnhlsB2AE5dsBfM7u94QudCKerZw" target="_blank">Research and Curriculum Weekly Updates</a>
 
-Office Hours: David .....   
+Office Hours: David .....   Matt ....
 Matt .....
 
 ## Resources for K-12 teachers
@@ -15,7 +15,6 @@ Matt .....
 
 [](content:training:hs:microbit-1)
 
-[](content:training:nsf_ret:page2)
 
 ## Other relevant resources
 
