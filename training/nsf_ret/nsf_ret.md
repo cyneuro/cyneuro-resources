@@ -15,9 +15,8 @@
 
 ## Other relevant resources
 
-[](content:training:nsf_ret:page3)
-
 [](content:training:hs:microbit-1)
 
+[](content:training:nsf_ret:page3)
 
 
