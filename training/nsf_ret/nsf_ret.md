@@ -15,7 +15,6 @@ Matt .....
 
 [](content:training:hs:microbit-1)
 
-
 ## Other relevant resources
 
 [](content:training:nsf_ret:page3)
