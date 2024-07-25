@@ -24,6 +24,8 @@
 
 [](content:training:hs:microbit-1)
 
+<a href="https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/EQNAXPISaoJFhxDaDN2s4gYBZiJnOBM6kdFGvXwV6Mqisw?e=5O61yi&xsdata=MDV8MDJ8dm92d21AbWlzc291cmkuZWR1fGQzMWFiYWI4ZDAwMjQ4MDdhNWZhMDhkY2FjYzM4ZjZhfGUzZmVmZGJlZjdlOTQwMWJhNTFhMzU1ZTAxYjA1YTg5fDB8MHw2Mzg1NzUyMDMxMzgxNTE1NzV8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=cnJhL3hsUXJFek9TdmRkZ1g0QS95NHM0b1FMMmJZeS9UaEE2U3UrV3FsVT0%3d" target="_blank">MU Nair Lab - EMG Hardware</a>
+
 ## Other relevant resources
 
 [](content:training:nsf_ret:page2)
