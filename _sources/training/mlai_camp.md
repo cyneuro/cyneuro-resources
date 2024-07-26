@@ -1,6 +1,8 @@
 (content:training:camps:mlai_camp)=
 # Machine Learning & AI Camp – Neural Networks
 
+[](content:training:hs:microbit-1)
+
 ## ⌨️ Interactive Notebooks in Google Colab
 
 1. [XOR](https://colab.research.google.com/drive/1MgQFgfNMra9m8gWK__3H_hWknLvn6-y4?usp=sharing)
