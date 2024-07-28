@@ -39,16 +39,14 @@
 ::::{grid}
 :gutter: 2
 
-:::{grid-item-card} Neural Networks
+:::{grid-item-card} Before and after the camp
 :link: content:training:camps:mlai_camp
 :link-type: ref
-Short description.
 :::
 
-:::{grid-item-card} TBA
+:::{grid-item-card} Coming soon!
 :link: none
 :link-type: ref
-Coming soon!
 :::
 
 ::::
