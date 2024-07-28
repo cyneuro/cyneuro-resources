@@ -20,6 +20,7 @@
 4. Quiz 1.
 5. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_iris_mnist.ipynb" target="_blank">Classifying real datasets: Iris and MNIST</a>
 6. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_cnn.ipynb" target="_blank">Convolutional Neural Networks</a>
+    - micro:bit – projecting digits.
 
 ## After the camp
 
