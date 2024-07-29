@@ -7,7 +7,7 @@
 
 1. Study and solve the notebook <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_intro_to_python.ipynb" target="_blank">Introduction to Python, Google Colab and Jupyter Notebook</a>
 2. Study and solve the notebook <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_functions.ipynb" target="_blank">Recap: Functions, Lines, Parabolas</a>
-3. Study and complete projects in the micro:bit Resources for Students section of the [](content:training:hs:microbit-1) page.
+3. Study and complete projects in the micro:bit Resources for Learners section of the [](content:training:hs:microbit-1) page.
 4. Complete Quiz 0.
 
 ## At the camp
