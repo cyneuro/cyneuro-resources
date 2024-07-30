@@ -39,7 +39,7 @@
 ::::{grid}
 :gutter: 2
 
-:::{grid-item-card} Before and after the camp
+:::{grid-item-card} Before, at and after the camp
 :link: content:training:camps:mlai_camp
 :link-type: ref
 :::
