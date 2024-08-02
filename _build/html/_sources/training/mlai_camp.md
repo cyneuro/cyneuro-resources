@@ -9,7 +9,7 @@
 2. Study and solve the notebook <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_functions.ipynb" target="_blank">Recap: Functions, Lines, Parabolas</a>
 3. Study and complete projects in the micro:bit Resources for Learners section of the [](content:training:hs:microbit-1) page.
 
-Note: you can also complete the projects using the <a href="https://python.microbit.org/v/3" target="_blank">micro:bit simulator</a>. That is, you don't need the hardware device to do these projects.
+**Note:** you can also complete the projects using the <a href="https://python.microbit.org/v/3" target="_blank">micro:bit simulator</a>. That is, you don't need the hardware device to do these projects.
 Similarly, the section 'At the Camp' provides alternative exercises using the online simulator in case you don't have the hardware.
 
 4. Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiyohfjZ2smUPLBOPsEaihyzrgM3w8yUFc7HhFnW_mMXzurg/viewform?usp=sf_link" target="_blank">Quiz 0</a>.
@@ -29,6 +29,7 @@ Similarly, the section 'At the Camp' provides alternative exercises using the on
 5. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_iris_mnist.ipynb" target="_blank">Classifying real datasets: Iris and MNIST</a>
 6. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_cnn.ipynb" target="_blank">Convolutional Neural Networks</a>
     - micro:bit – projecting digits.
+    - Online students: TBD.
 
 ## After the camp
 
