@@ -11,11 +11,14 @@
 4. Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiyohfjZ2smUPLBOPsEaihyzrgM3w8yUFc7HhFnW_mMXzurg/viewform?usp=sf_link" target="_blank">Quiz 0</a>.
 
 
+
 ## At the camp
 1. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_linear_regression.ipynb" target="_blank">Linear regression</a>
     - micro:bit – moving the robot.
+    - Online students: complete the <a href="https://microbit.org/projects/make-it-code-it/fahrenheit-thermometer/" target="_blank">Fahrenheit thermometer</a> project using Python and the <a href="https://python.microbit.org/v/3" target="_blank">micro:bit simulator</a>. Explain how this problem can be solved with the linear regression model.
 2. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_logistic_regression.ipynb" target="_blank">Logistic regression</a>
     - micro:bit – classifying the states.
+    - Online students: complete the <a href="https://microbit.org/projects/make-it-code-it/compass-north/" target="_blank">Compass North</a> project using Python and the <a href="https://python.microbit.org/v/3" target="_blank">micro:bit simulator</a>. Explain how this problem can be solved with the logistric regression model. 
 3. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_XOR_mlp.ipynb" target="_blank">Classifying XOR. MLP</a>
     - <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.11918&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false" target="_blank">Tensorflow Tinker</a>
 4. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRPAVEJj2C1vEaxQvOTHb9mvSY6sfj8JHQ-0mJh5mznO5aUA/viewform?usp=sf_link" target="_blank">Quiz 1</a>
