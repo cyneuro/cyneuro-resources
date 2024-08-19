@@ -19,8 +19,3 @@
 
 ## micro:bit Additional Resources
 1. <a href="https://microbit.org/code/" target="_blank">micro:bit Let's code</a>
-
-
-## Learning Python
-
-1. <a href="https://www.khanacademy.org/computing/intro-to-python-fundamentals" target="_blank">KhanAcademy – Intro to Python Fundamentals</a>

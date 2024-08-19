@@ -1,5 +1,22 @@
 # Training
 
+**Modules**
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item-card} Learning Python
+:link: content:training:learn_python
+:link-type: ref
+:::
+
+:::{grid-item-card} Coding using micro:bit – I
+:link: content:training:hs:microbit-1
+:link-type: ref
+:::
+
+::::
+
 **Neuroscience Curriculum for High School**
 
 ::::{grid}
@@ -10,8 +27,8 @@
 :link-type: ref
 :::
 
-:::{grid-item-card} Coding using micro:bit – I
-:link: content:training:hs:microbit-1
+:::{grid-item-card} Coming soon!
+:link: none
 :link-type: ref
 :::
 
