@@ -51,6 +51,20 @@
 
 ::::
 
+::::{grid}
+:gutter: 2
+
+:::{grid-item-card} Computational Neuroscience Tutorials
+:link: content:training:comp_neuro_tutorials
+:link-type: ref
+:::
+
+:::{grid-item-card} Coming soon!
+:link: none
+:link-type: ref
+:::
+::::
+
 **Machine Learning & AI Camp**
 
 ::::{grid}
