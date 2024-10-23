@@ -51,10 +51,12 @@
 
 ::::
 
+**Computational Neuroscience Tutorials**
+
 ::::{grid}
 :gutter: 2
 
-:::{grid-item-card} Computational Neuroscience Tutorials
+:::{grid-item-card} Tutorials
 :link: content:training:comp_neuro_tutorials
 :link-type: ref
 :::
