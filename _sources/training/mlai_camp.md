@@ -26,7 +26,7 @@ Similarly, the section 'At the Camp' provides alternative exercises using the on
 3. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_XOR_mlp.ipynb" target="_blank">Classifying XOR. MLP</a>
     - <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.11918&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false" target="_blank">A Neural Network Playground</a>
 4. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRPAVEJj2C1vEaxQvOTHb9mvSY6sfj8JHQ-0mJh5mznO5aUA/viewform?usp=sf_link" target="_blank">Quiz 1</a>
-5. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_iris_mnist.ipynb" target="_blank">Classifying real datasets: Iris and MNIST</a> or <a href="https://github.com/cyneuro/ML_camp/blob/main/EEG-FearClassification/eeg_fear.ipynb" target="_blank">Classifying emotional states with EEG data</a>
+5. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_iris_mnist.ipynb" target="_blank">Classifying real datasets: Iris and MNIST</a>
 6. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_cnn.ipynb" target="_blank">Convolutional Neural Networks</a>
     - micro:bit – projecting digits.
     - Online students: TBD.
