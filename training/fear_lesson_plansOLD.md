@@ -1,4 +1,4 @@
-(content:training:hs:fear_lesson_plans)=
+(content:training:hs:fear_lesson_plans_OLD)=
 # Fear Learning for High School
 
 ## 📚 Reading
