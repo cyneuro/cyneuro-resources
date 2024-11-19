@@ -5,7 +5,7 @@
 ## 📹 SLIDES & VIDEO
 
 1. [Activity: Sketch your fear circuit](https://www.youtube.com/watch?v=AiQh8wUmppM) [&      Video](https://youtu.be/AiQh8wUmppM?)
-2. [What is fear? Reward?](https://www.youtube.com/watch?v=9P9Ka_ALStA) [&      Video](https://youtu.be/AiQh8wUmppM?)
+2. [What is fear? Reward?][What is Fear, Reward](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EWNXOl1Z25lLpw3BMxhkHfIBtP--z-iFX2HayEOA2fCQbg?e=aoukYa) & [Video](https://youtu.be/AiQh8wUmppM?list=PL4pOjgKUTvtF-qn4XFAaIhZ9bXvxH9WY0)
 3. [How are tone? shock? modeled](https://www.youtube.com/watch?v=6CHLNeBp2N8) [&      Video](https://youtu.be/AiQh8wUmppM?)
 4. [D1.1 Video](https://youtu.be/PNbMSMyn_OI?si=jcmwb3BQcxxf0UiR) [&      Video](https://youtu.be/AiQh8wUmppM?)
 
