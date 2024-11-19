@@ -9,9 +9,6 @@
 4. [Activity: Sketch your fear circuit](https://www.youtube.com/watch?v=AiQh8wUmppM) [&      Video](https://youtu.be/AiQh8wUmppM?)
 
 
-## Teacher Resources
-
-> [Click here to view reading materials](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmailmissouri-my.sharepoint.com%2F%3Af%3A%2Fg%2Fpersonal%2Fnairs_umsystem_edu%2FEh8xE4yJdPpLueaxefdjDfABc2UGfOQy9F3Z-5PLtJa9fQ%3Fe%3D96zVWS&data=05%7C02%7Cvovwm%40missouri.edu%7C75be49c949a64283d43b08dbff8423b2%7Ce3fefdbef7e9401ba51a355e01b05a89%7C0%7C0%7C638384715222225268%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nHft1Df0SLgilSak%2FeO%2F8k7bdgAH%2FbcgwWHKr4JGg50%3D&reserved=0)
 
 ## Google Colabs – Python Basics
 1. [Introduction to Jupyter Notebook, Markdown and Python](https://colab.research.google.com/drive/1z3TG2W3RYU6ItaGRwTRUz9zLvaJqI1Ix?usp=sharing)
