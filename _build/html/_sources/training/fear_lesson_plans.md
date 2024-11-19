@@ -4,10 +4,9 @@
 ## Slides & Video
 
 1. [Activity: Sketch your fear circuit](https://www.youtube.com/watch?v=AiQh8wUmppM) [&      Video](https://youtu.be/AiQh8wUmppM?)
-2. [What is a Neuron](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EUL_jvsw1GdJrisQvCi-0-YBSekMvO-A1CXXpqxHf6jvzA?e=G2hzNu) & [Video](https://www.youtube.com/watch?v=xxTx_N9JAdw&list=PL4pOjgKUTvtF-qn4XFAaIhZ9bXvxH9WY0&index=7)
-3. [What is Fear, Reward](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EWNXOl1Z25lLpw3BMxhkHfIBtP--z-iFX2HayEOA2fCQbg?e=aoukYa) & [Video](https://youtu.be/AiQh8wUmppM?list=PL4pOjgKUTvtF-qn4XFAaIhZ9bXvxH9WY0)
-4. [Intro to Tone-Shock](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EZRbGLGuP7RLgAGX9vnHMLEBw57gT5VwGU_lGUBLDSwqvQ?e=QqerHw&xsdata=MDV8MDJ8dm92d21AbWlzc291cmkuZWR1fDE5ODBmOWE5Yjg3YjQ1YWExMmMwMDhkY2YzN2NkMWQyfGUzZmVmZGJlZjdlOTQwMWJhNTFhMzU1ZTAxYjA1YTg5fDB8MHw2Mzg2NTI5NjQ2MTc5OTc3ODl8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=bXZOVHZ4RGJqV3ZxZlFYckhDczhFMmVqR3c3R0htN0cxWjlHczR5OWNZWT0%3d) & [Video]()
-5. [Fear Circuit Simulation (in progress)](https://colab.research.google.com/github/KhuramC/Fear-Lesson-Plans/blob/master/D1/Fear_Breadboard_Circuit.ipynb)
+2. [What is fear? Reward?] [What is Fear, Reward](https://mailmissouri-my.sharepoint.com/:p:/g/personal/nairs_umsystem_edu/EWNXOl1Z25lLpw3BMxhkHfIBtP--z-iFX2HayEOA2fCQbg?e=aoukYa) & [Video](https://youtu.be/AiQh8wUmppM?list=PL4pOjgKUTvtF-qn4XFAaIhZ9bXvxH9WY0)
+3. [How are tone? shock? modeled](https://www.youtube.com/watch?v=6CHLNeBp2N8) [&      Video](https://youtu.be/AiQh8wUmppM?)
+4. [D1.1 Video](https://youtu.be/PNbMSMyn_OI?si=jcmwb3BQcxxf0UiR) [&      Video](https://youtu.be/AiQh8wUmppM?)
 
 ## Teacher Resources
 
