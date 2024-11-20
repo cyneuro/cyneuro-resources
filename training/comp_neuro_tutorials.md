@@ -7,7 +7,6 @@
 
 ## Tutorials
 
-<!--- ## - <a href="https://github.com/cyneuro/Basics-of-Neurons-and-Networks/tree/main/B1_BasicsSingleNeuron" target="_blank">B1-CreatingSingleCell</a>
 - <a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/B1_BasicsSingleNeuron/B1_SingleNeuronBio&Model.ipynb" target="_blank">B1-CreatingSingleCell</a>  
      Goes over the components of a neuron (in particular the soma) and asks the students to make the biological model and electrical circuit. It then goes over how the soma is simulated in NEURON and the default values for properties of the section created. It then goes over inserting the passive and active channels and how to voltage/current clamp for a simulation. Lastly, an interactive simulation is given to show exactly how the soma looks with the bilayer, the fact that it is polarized, and that channels are actually inserted into the soma.
 
