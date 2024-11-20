@@ -77,8 +77,8 @@
 :link-type: ref
 :::
 
-:::{grid-item-card} Coming soon!
-:link: none
+:::{grid-item-card} NSF RET Program
+:link: content:training:nsf_ret:nsf_ret
 :link-type: ref
 :::
 
