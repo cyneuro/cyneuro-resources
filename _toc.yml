@@ -17,4 +17,5 @@ chapters:
   - file: training/nsf_ret/nsf_ret
   - file: training/comp_neuro_tutorials
   - file: training/mlai_camp
+  - file: training/software_workflows
   

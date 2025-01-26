@@ -2,7 +2,7 @@
 
 **Modules**
 
-::::{grid}
+::::{grid} 3
 :gutter: 2
 
 :::{grid-item-card} Learning Python
@@ -15,11 +15,17 @@
 :link-type: ref
 :::
 
+:::{grid-item-card} Software and workflows
+:link: content:training:software_workflows
+:link-type: ref
+:::
+
 ::::
+
 
 **Neuroscience Curriculum for High School**
 
-::::{grid}
+::::{grid} 3
 :gutter: 2
 
 :::{grid-item-card} Fear Learning for High School
@@ -27,16 +33,11 @@
 :link-type: ref
 :::
 
-:::{grid-item-card} Coming soon!
-:link: none
-:link-type: ref
-:::
-
 ::::
 
 **Neuroscience Curriculum for Medical Professionals**
 
-::::{grid}
+::::{grid} 3
 :gutter: 2
 
 :::{grid-item-card} Medical Curriculum
@@ -53,7 +54,7 @@
 
 **Computational Neuroscience Tutorials**
 
-::::{grid}
+::::{grid} 3
 :gutter: 2
 
 :::{grid-item-card} Tutorials
@@ -61,24 +62,15 @@
 :link-type: ref
 :::
 
-:::{grid-item-card} Coming soon!
-:link: none
-:link-type: ref
-:::
 ::::
 
 **Machine Learning & AI Camp**
 
-::::{grid}
+::::{grid} 3
 :gutter: 2
 
 :::{grid-item-card} Before, at and after the camp
 :link: content:training:camps:mlai_camp
-:link-type: ref
-:::
-
-:::{grid-item-card} Coming soon!
-:link: none
 :link-type: ref
 :::
 
