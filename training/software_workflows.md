@@ -30,12 +30,38 @@ Develop an automated system for EEG data analysis and visualization.
 2. Find any public EEG dataset (e.g., [EEG Brainwave Dataset: Feeling Emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions)) and implement the following workflow:
    
    1. The user selects the type of montage (referential or bipolar) and provides two frequency values (low and high).
+   
    2. The program re-references the data according to the type of montage and applies a [band-pass filter](https://en.wikipedia.org/wiki/Band-pass_filter) using the provided frequencies.
+   
    3. The program plots the voltage trace of each processed channel in a dashboard format (i.e., all channels over a grid) and displays aggregate characteristics of each trace (e.g., mean, variance, Fano factor, etc.)
+   
    4. (Optional) The program predicts some target variable using the data and displays prediction results.
 
 You can use [this notebook](https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb) for reference, but you are not required to implement the prediction model.
 
+**Mini-project 3: Atomated workflow for PCM on public fMRI data**
+
+TBD
+
+**Mini-project 4: Classification of accelerometer data using micro:bit**
+
+TBD
+
+**Mini-project 5: Comparison of computational capabilities of micro:bit, PC and FABRIC**
+
+TBD
 
 ## Final projects
 
+1. Analysis of substance abuse data.
+    
+    1.1. PCM using a combination of sMRI and fMRI data.
+
+    1.2. Combining PCM and additional features derived from fMRI data.
+
+    1.3. TBD: projects from collaborators (St. Louis, Rolla, Alabama).
+
+2. Automated workflow for fMRI data processing.
+3. Movement prediction using micro:bot.
+4. Automated workflow for training a machine learning model with data from online databases.
+6. Automated workflow for genetics data classification.
