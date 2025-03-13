@@ -499,7 +499,23 @@ document.write(`
 <p><strong>Mini-project 3: Atomated workflow for PCM on public fMRI data</strong></p>
 <p>TBD</p>
 <p><strong>Mini-project 4: Classification of accelerometer data using micro:bit</strong></p>
-<p>TBD</p>
+<p>Develop a workflow for classifying accelerometer data recorded with micro:bit.</p>
+<ol class="arabic simple">
+<li><p>Study the <a class="reference external" href="https://microbit.org/projects/make-it-code-it/movement-data-logger/">Movement data logger</a> tutorial to learn about accelerometer data recording with micro:bit. These additional tutorials might be useful: <a class="reference external" href="https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/">Python data logger</a>, <a class="reference external" href="https://microbit.org/projects/make-it-code-it/sensitive-step-counter/?editor=python">Sensitive step counter</a>, <a class="reference external" href="https://microbit.org/get-started/user-guide/data-logging/#what-is-data-logging?">User guide – Data logging</a>.</p></li>
+<li><p>Create a MakeCode or Python script to record accelerometer data from the micro:bit to your PC. You can transfer the data either via a wire or through a radio connection.</p></li>
+<li><p>Record the following movement sequence:</p>
+<ul class="simple">
+<li><p>Hold the micro:bit steady for 5 seconds,</p></li>
+<li><p>Shake the micro:bit for 5 seconds,</p></li>
+<li><p>Hold the micro:bit steady for 5 seconds,</p></li>
+<li><p>Shake the micro:bit for 5 seconds.</p></li>
+</ul>
+</li>
+</ol>
+<p>You should get approximately 20 seconds of recorded data.</p>
+<ol class="arabic simple" start="4">
+<li><p>Use <a class="reference external" href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_logreg_microbit.ipynb">this notebook</a> to estimate a model for classifying whether the micro:bit is being held steady or being shaken. The notebook uses logistic regression as an example, but you are free to use any other model or create a rule-based classification system. Report the classification accuracy and give suggestions on how to improve it.</p></li>
+</ol>
 <p><strong>Mini-project 5: Comparison of computational capabilities of micro:bit, PC and FABRIC</strong></p>
 <p>TBD</p>
 </section>
