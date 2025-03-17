@@ -496,10 +496,8 @@ document.write(`
 </li>
 </ol>
 <p>You can use <a class="reference external" href="https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb">this notebook</a> for reference, but you are not required to implement the prediction model.</p>
-<p><strong>Mini-project 3: Atomated workflow for PCM on public fMRI data</strong></p>
-<p>TBD</p>
-<p><strong>Mini-project 4: Classification of accelerometer data using micro:bit</strong></p>
-<p>Develop a workflow for classifying accelerometer data recorded with micro:bit.</p>
+<p><strong>Mini-project 3: Classification of accelerometer data using the micro:bit</strong></p>
+<p>Develop a workflow for classifying accelerometer data recorded with the micro:bit.</p>
 <ol class="arabic simple">
 <li><p>Study the <a class="reference external" href="https://microbit.org/projects/make-it-code-it/movement-data-logger/">Movement data logger</a> tutorial to learn about accelerometer data recording with micro:bit. These additional tutorials might be useful: <a class="reference external" href="https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/">Python data logger</a>, <a class="reference external" href="https://microbit.org/projects/make-it-code-it/sensitive-step-counter/?editor=python">Sensitive step counter</a>, <a class="reference external" href="https://microbit.org/get-started/user-guide/data-logging/#what-is-data-logging?">User guide – Data logging</a>.</p></li>
 <li><p>Create a MakeCode or Python script to record accelerometer data from the micro:bit to your PC. You can transfer the data either via a wire or through a radio connection.</p></li>
@@ -516,7 +514,15 @@ document.write(`
 <ol class="arabic simple" start="4">
 <li><p>Use <a class="reference external" href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_logreg_microbit.ipynb">this notebook</a> to estimate a model for classifying whether the micro:bit is being held steady or being shaken. The notebook uses logistic regression as an example, but you are free to use any other model or create a rule-based classification system. Report the classification accuracy and give suggestions on how to improve it.</p></li>
 </ol>
-<p><strong>Mini-project 5: Comparison of computational capabilities of micro:bit, PC and FABRIC</strong></p>
+<p><strong>Mini-project 4: Comparison of computational capabilities of the micro:bit, PC and FABRIC</strong></p>
+<p>Compare computational capabilities of devices across 3 tiers: microprocessor (using the micro:bit), PC (using your laptop), cluster (using FABRIC).</p>
+<ol class="arabic simple">
+<li><p>Choose a difficult computational problem, e.g., calculating a factorial of a large number, inverting a large matrix, constructing a long series of prime numbers, sorting a large array, searching for patterns in a large text, etc.</p></li>
+<li><p>Implement scripts which demonstrate a solution to this problem using both serial and parallel programming.</p></li>
+<li><p>Run your scripts on the micro:bit, your PC and FABRIC and measure the run time. Make a plot which demonstrates gains and losses in simulation time.</p></li>
+<li><p>(Optional) Record and present other efficiency metrics such as RAM usage, network usage, etc.</p></li>
+</ol>
+<p><strong>Mini-project 5: Atomated workflow for PCM on public fMRI data</strong></p>
 <p>TBD</p>
 </section>
 <section id="final-projects">
@@ -531,6 +537,7 @@ document.write(`
 <li><p>Movement prediction using micro:bot.</p></li>
 <li><p>Automated workflow for training a machine learning model with data from online databases.</p></li>
 <li><p>Automated workflow for genetics data classification.</p></li>
+<li><p>Automated workflow for DSP of medical datasets.</p></li>
 </ol>
 </section>
 </section>

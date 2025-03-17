@@ -39,13 +39,9 @@ Develop an automated system for EEG data analysis and visualization.
 
 You can use [this notebook](https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb) for reference, but you are not required to implement the prediction model.
 
-**Mini-project 3: Atomated workflow for PCM on public fMRI data**
+**Mini-project 3: Classification of accelerometer data using the micro:bit**
 
-TBD
-
-**Mini-project 4: Classification of accelerometer data using micro:bit**
-
-Develop a workflow for classifying accelerometer data recorded with micro:bit.
+Develop a workflow for classifying accelerometer data recorded with the micro:bit.
 
 1. Study the [Movement data logger](https://microbit.org/projects/make-it-code-it/movement-data-logger/) tutorial to learn about accelerometer data recording with micro:bit. These additional tutorials might be useful: [Python data logger](https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/), [Sensitive step counter](https://microbit.org/projects/make-it-code-it/sensitive-step-counter/?editor=python), [User guide – Data logging](https://microbit.org/get-started/user-guide/data-logging/#what-is-data-logging?).
 
@@ -61,7 +57,16 @@ You should get approximately 20 seconds of recorded data.
 
 4. Use [this notebook](https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_logreg_microbit.ipynb) to estimate a model for classifying whether the micro:bit is being held steady or being shaken. The notebook uses logistic regression as an example, but you are free to use any other model or create a rule-based classification system. Report the classification accuracy and give suggestions on how to improve it.
 
-**Mini-project 5: Comparison of computational capabilities of micro:bit, PC and FABRIC**
+**Mini-project 4: Comparison of computational capabilities of the micro:bit, PC and FABRIC**
+
+Compare computational capabilities of devices across 3 tiers: microprocessor (using the micro:bit), PC (using your laptop), cluster (using FABRIC).
+
+1. Choose a difficult computational problem, e.g., calculating a factorial of a large number, inverting a large matrix, constructing a long series of prime numbers, sorting a large array, searching for patterns in a large text, etc.
+2. Implement scripts which demonstrate a solution to this problem using both serial and parallel programming.
+3. Run your scripts on the micro:bit, your PC and FABRIC and measure the run time. Make a plot which demonstrates gains and losses in simulation time.
+4. (Optional) Record and present other efficiency metrics such as RAM usage, network usage, etc.
+
+**Mini-project 5: Atomated workflow for PCM on public fMRI data**
 
 TBD
 
@@ -79,3 +84,4 @@ TBD
 3. Movement prediction using micro:bot.
 4. Automated workflow for training a machine learning model with data from online databases.
 6. Automated workflow for genetics data classification.
+7. Automated workflow for DSP of medical datasets.
