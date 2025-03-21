@@ -27,7 +27,7 @@ Requirements:
 Develop an automated system for EEG data analysis and visualization.
 
 1. Get familiar with what [EEG data are](https://en.wikipedia.org/wiki/Electroencephalography), [electrode positioning systmes](https://en.wikipedia.org/wiki/10–20_system_(EEG)) and the notion of a [montage](https://www.learningeeg.com/montages-and-technical-components). Summarize advantages and disadvantages of EEG recordings and differences between bipolar and referential montages.
-2. Find any public EEG dataset (e.g., [EEG Brainwave Dataset: Feeling Emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions)) and implement the following workflow:
+2. Find **any** public EEG dataset (e.g., [Emotion Recognition using EEG and Computer Games](https://www.kaggle.com/datasets/wajahat1064/emotion-recognition-using-eeg-and-computer-games/data), [EEG Brainwave Dataset: Feeling Emotions](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions)) and implement the following workflow:
    
    1. The user selects the type of montage (referential or bipolar) and provides two frequency values (low and high).
    
@@ -37,7 +37,9 @@ Develop an automated system for EEG data analysis and visualization.
    
    4. (Optional) The program predicts some target variable using the data and displays prediction results.
 
-You can use [this notebook](https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb) for reference, but you are not required to implement the prediction model.
+You can use [this notebook](https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb), which explores the Computer Games dataset from above, for reference, but you are not required to implement the prediction model. 
+
+**Note:** public EEG datasets can lack descriptions and can be tricky to process – you might need to mine the dataset's description to understand which column corresponds to which electrode, etc. However, if you find that a dataset misses crucial information, it might be wiser to switch to a different dataset early.
 
 **Mini-project 3: Classification of accelerometer data using the micro:bit**
 
