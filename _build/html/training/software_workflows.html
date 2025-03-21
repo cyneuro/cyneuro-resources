@@ -486,7 +486,7 @@ document.write(`
 <p>Develop an automated system for EEG data analysis and visualization.</p>
 <ol class="arabic simple">
 <li><p>Get familiar with what <a class="reference external" href="https://en.wikipedia.org/wiki/Electroencephalography">EEG data are</a>, <a class="reference external" href="https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)">electrode positioning systmes</a> and the notion of a <a class="reference external" href="https://www.learningeeg.com/montages-and-technical-components">montage</a>. Summarize advantages and disadvantages of EEG recordings and differences between bipolar and referential montages.</p></li>
-<li><p>Find any public EEG dataset (e.g., <a class="reference external" href="https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions">EEG Brainwave Dataset: Feeling Emotions</a>) and implement the following workflow:</p>
+<li><p>Find <strong>any</strong> public EEG dataset (e.g., <a class="reference external" href="https://www.kaggle.com/datasets/wajahat1064/emotion-recognition-using-eeg-and-computer-games/data">Emotion Recognition using EEG and Computer Games</a>, <a class="reference external" href="https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions">EEG Brainwave Dataset: Feeling Emotions</a>) and implement the following workflow:</p>
 <ol class="arabic simple">
 <li><p>The user selects the type of montage (referential or bipolar) and provides two frequency values (low and high).</p></li>
 <li><p>The program re-references the data according to the type of montage and applies a <a class="reference external" href="https://en.wikipedia.org/wiki/Band-pass_filter">band-pass filter</a> using the provided frequencies.</p></li>
@@ -495,7 +495,8 @@ document.write(`
 </ol>
 </li>
 </ol>
-<p>You can use <a class="reference external" href="https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb">this notebook</a> for reference, but you are not required to implement the prediction model.</p>
+<p>You can use <a class="reference external" href="https://github.com/cyneuro/neuro_communication/blob/main/eeg_emotion_classification.ipynb">this notebook</a>, which explores the Computer Games dataset from above, for reference, but you are not required to implement the prediction model.</p>
+<p><strong>Note:</strong> public EEG datasets can lack descriptions and can be tricky to process – you might need to mine the dataset’s description to understand which column corresponds to which electrode, etc. However, if you find that a dataset misses crucial information, it might be wiser to switch to a different dataset early.</p>
 <p><strong>Mini-project 3: Classification of accelerometer data using the micro:bit</strong></p>
 <p>Develop a workflow for classifying accelerometer data recorded with the micro:bit.</p>
 <ol class="arabic simple">
