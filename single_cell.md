@@ -2,7 +2,7 @@
 
 ## Computational models
 
-- [Hodgkin-Huxley model](HH/hh_spiker.ipynb)
+- [Hodgkin-Huxley model](https://github.com/cyneuro/neuro_communication/blob/main/HH/hh_spiker.ipynb)
 - Detailed model of an L5 cortical neuron (TBA)
 - Equivalent model of an L5 cortical neuron with reduced morphology (TBA)
 
