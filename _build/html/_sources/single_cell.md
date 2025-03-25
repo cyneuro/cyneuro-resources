@@ -3,8 +3,8 @@
 ## Computational models
 
 - [Hodgkin-Huxley model](https://github.com/cyneuro/neuro_communication/blob/main/HH/hh_spiker.ipynb)
-- Detailed model of an L5 cortical neuron (TBA)
-- Equivalent model of an L5 cortical neuron with reduced morphology (TBA)
+- Detailed model of an L5 cortical neuron (TBA on publication)
+- Equivalent model of an L5 cortical neuron with reduced morphology (TBA on publication)
 
 ## Principles of single cell modeling and tuning
 - [Tutorials on single cell properties](https://cyneuro.github.io/cyneuro-resources/training/comp_neuro_tutorials.html#content-training-comp-neuro-tutorials)
@@ -14,6 +14,7 @@
 
 ## Automated tuning
 - Automatic cell tuner (TBA on ACT publication)
+- Automatic synaptic input tuner (TBA on publication)
 
 ## Packages
 We use the following packages for single cell modeling:

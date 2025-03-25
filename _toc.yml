@@ -7,7 +7,7 @@ root: intro
 chapters:
 - file: single_cell
 - file: networks
-- file: automation
+- file: communication
 - file: training/training
   sections:
   - file: training/learn_python
