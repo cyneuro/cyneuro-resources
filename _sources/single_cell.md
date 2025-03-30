@@ -8,6 +8,7 @@
 
 ## Principles of single cell modeling and tuning
 - [Tutorials on single cell properties](https://cyneuro.github.io/cyneuro-resources/training/comp_neuro_tutorials.html#content-training-comp-neuro-tutorials)
+- [Tutorial: tune cells from AllenDB](https://github.com/cyneuro/single-cell-tuning/blob/main/tutorial_on_cell_tuning.ipynb)
 - Guidelines for manual tuning of channel conductances (TBA on ACT publication)
 - Guidelines for manual tuning of synapses and synaptic inputs
 - Guidelines for building equivalent cells with reduced morphology
