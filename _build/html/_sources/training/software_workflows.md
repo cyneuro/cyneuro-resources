@@ -68,22 +68,35 @@ Compare computational capabilities of devices across 3 tiers: microprocessor (us
 3. Run your scripts on the micro:bit, your PC and FABRIC and measure the run time. Make a plot which demonstrates gains and losses in simulation time.
 4. (Optional) Record and present other efficiency metrics such as RAM usage, network usage, etc.
 
-**Mini-project 5: Atomated workflow for PCM on public fMRI data**
-
-TBD
-
 ## Final projects
 
-1. Analysis of substance abuse data.
+Below is a list of topics for the final projects. Each topic is followed by general guidelines; however, you are free to choose a particular implementation. You can also suggest your own project topic as long as it is related to neuroscience and/or neural engineering.
+
+1. Analysis of neural data.
     
-    1.1. PCM using a combination of sMRI and fMRI data.
+   1.1. **PCM using sMRI data, fMRI data or a combination of both.**
 
-    1.2. Combining PCM and additional features derived from fMRI data.
+   Predictive connectome analysis (PCM) is a popular technique for analyzing brain connectivity. Traditionally, connectome matrices were built based on functional imaging data; however, [a recent study](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.629478/full) showed that combining functional and structural features might give better insights into brain organization. Find an sMRI/fMRI/sMRI+fMRI dataset and identify features which might help predict connectivity between brain regions.
 
-    1.3. TBD: projects from collaborators (St. Louis, Rolla, Alabama).
+   1.2. TBD: projects from collaborators (St. Louis, Rolla, Alabama).
 
-2. Automated workflow for fMRI data processing.
-3. Movement prediction using micro:bot.
-4. Automated workflow for training a machine learning model with data from online databases.
-6. Automated workflow for genetics data classification.
-7. Automated workflow for DSP of medical datasets.
+   1.3 **Automated workflow for sMRI/fMRI data processing.**
+
+   sMRI/fMRI processing involves several important steps such as movement correction and parcellation. Luckily, these steps are implemented in [FreeSurfer](https://freesurfer.net). Implement a worflow for a particular problem that uses FreeSurfer to process user-provided sMRI/fMRI data.
+
+   1.4 **Automated workflow for DSP of medical datasets.**
+
+   Medical data come in a variety of spatial and temporal resolutions, ranging from the whole-brain recordings (EEG) to recordings from individual cells (single unit data). Choose a medical dataset and implement a workflow for performing digital signal processing (DSP) and analysis of the results. 
+
+2. **Movement prediction using micro:bot.**
+
+   The [micro:bot](https://www.eaieducation.com/microbot-eai-352254.html?srsltid=AfmBOor5ZghgKP7l1nNjO9IvvEwx0jeq66K8iGxbp82ljKsNhSyq0rK2) is a small programmable robot operated by the micro:bit. Implement a workflow for interactive movement control that reads data from the micro:bot's camera and uses a predictive model run on a micro:bit to determine the robot's next movemement. 
+
+3. **Automated workflow for training a machine learning model with data from online databases.**
+
+   Neural databases (e.g., [AllenDB](https://celltypes.brain-map.org), [DANDI](https://dandiarchive.org)) are becoming increasingly popular. Implement a workflow runnable on FABRIC or CloudLab that efficiently retrieves data from one of these databases and uses it for training of a machine learning model.
+
+
+4. **Automated workflow for genetics data classification.**
+
+   See Canvas for guidelines. 
