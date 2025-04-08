@@ -99,4 +99,18 @@ Below is a list of topics for the final projects. Each topic is followed by gene
 
 4. **Automated workflow for genetics data classification.**
 
-   See Canvas for guidelines. 
+   4.1 **Implement DNA-seq genome variant calling (.fastq to .vcf) followed phylogeny analysis**
+
+   Use the dataset available for DNA-seq at [link](https://github.com/raopr/AVAH/blob/master/misc/sampleURLs-vlarge.txt). For more information on this, please refer to Module 11 Lecture ppt, where guided information with hands-on tutorial is mentioned.
+
+   4.2 **Implement RNA-seq genome variant calling (.fastq to .vcf) followed phylogeny analysis**
+
+   Use the dataset available for DNA-seq at [link](https://ieee-dataport.org/open-access/variant-analysis-human-genome-sequences-covid-19-research). For more information on this, please refer to Module 11 Lecture ppt, where guided information with hands-on tutorial is mentioned.
+
+   4.3 **Perform phylogeny analysis on TCGA cancer dataset using  genome variant calling (.fastq to .vcf) workflow**
+
+   Explore and find the .fastq format data at [link](https://portal.gdc.cancer.gov/) and perform the same genetic workflow showed in Module 11 guided project then plot phylogeny tree.
+
+   4.4 **Perform phylogeny analysis on your own explored data using  genome variant calling (.fastq to .vcf) workflow**
+
+   Explore and find the .fastq format data at [link](https://www.internationalgenome.org/data/).
