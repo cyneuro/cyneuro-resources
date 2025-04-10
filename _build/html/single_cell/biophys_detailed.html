@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Computational Neuroscience Tutorials &#8212; Neural Engineering Laboratory – Resources</title>
+    <title>Biophysics of detailed cells &#8212; Neural Engineering Laboratory – Resources</title>
   
   
   
@@ -61,7 +61,7 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'training/comp_neuro_tutorials';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'single_cell/biophys_detailed';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -166,7 +166,7 @@ const thebe_selector_output = ".output, .cell_output"
   <ul class="bd-navbar-elements navbar-nav">
     
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../single_cell/single_cell.html">
+                      <a class="nav-link nav-internal" href="single_cell.html">
                         Single Cell
                       </a>
                     </li>
@@ -187,7 +187,7 @@ const thebe_selector_output = ".output, .cell_output"
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="training.html">
+                      <a class="nav-link nav-internal" href="../training/training.html">
                         Training
                       </a>
                     </li>
@@ -275,10 +275,6 @@ document.write(`
   
 
   
-    <label class="sidebar-toggle secondary-toggle" for="__secondary" tabindex="0">
-      <span class="fa-solid fa-outdent"></span>
-    </label>
-  
 </div>
 
     </nav>
@@ -306,7 +302,7 @@ document.write(`
   <ul class="bd-navbar-elements navbar-nav">
     
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../single_cell/single_cell.html">
+                      <a class="nav-link nav-internal" href="single_cell.html">
                         Single Cell
                       </a>
                     </li>
@@ -327,7 +323,7 @@ document.write(`
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="training.html">
+                      <a class="nav-link nav-internal" href="../training/training.html">
                         Training
                       </a>
                     </li>
@@ -417,7 +413,7 @@ document.write(`
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page">Computationa...</li>
+    <li class="breadcrumb-item active" aria-current="page">Biophysics...</li>
   </ul>
 </nav>
 </div>
@@ -434,44 +430,8 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="computational-neuroscience-tutorials">
-<span id="content-training-comp-neuro-tutorials"></span><h1>Computational Neuroscience Tutorials<a class="headerlink" href="#computational-neuroscience-tutorials" title="Permalink to this heading">#</a></h1>
-<ul class="simple">
-<li><p>All tutorials can be run either on a local computer or in Google Colab.</p></li>
-<li><p>To run in Colab there is no need to download the repo – instead, click on the folder and then the .ipynb file. There will be a button at the start of the notebook which says ‘Open in Colab’. Click this button, and the notebook will be loaded into Colab.</p></li>
-<li><p>If running on a local machine, make sure that Jupyter is installed with the Python packages <code class="docutils literal notranslate"><span class="pre">neuron</span></code> and <code class="docutils literal notranslate"><span class="pre">ipywidgets</span></code>.</p></li>
-</ul>
-<section id="tutorials">
-<h2>Tutorials<a class="headerlink" href="#tutorials" title="Permalink to this heading">#</a></h2>
-<ul>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/B1_BasicsSingleNeuron/B1_SingleNeuronBio&Model.ipynb" target="_blank">B1-CreatingSingleCell</a><br />
-Goes over the components of a neuron (in particular the soma) and asks the students to make the biological model and electrical circuit. It then goes over how the soma is simulated in NEURON and the default values for properties of the section created. It then goes over inserting the passive and active channels and how to voltage/current clamp for a simulation. Lastly, an interactive simulation is given to show exactly how the soma looks with the bilayer, the fact that it is polarized, and that channels are actually inserted into the soma.</p></li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/B2_NeuronProperties/B2_Biophysics&Properties.ipynb" target="_blank">B2-CableTheory</a></p>
-<p>Goes over how to create a dendrite and what electrotonic distance is and how length constant is a part of it. Then it goes over how it is still transient by showing the voltage change in specific segments through the simulation. It then goes over how to calculate the length constant and why it is important.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/B3_MoreProperties/AdditionalProperties.ipynb" target="_blank">B3-Propagation</a></p>
-<p>Goes over what input resistance, the fact that it is a constant, and how to calculate it and asks some questions. It then goes over what the FI curve is and plots it for the given cell from the currents -1nA to 2nA. Lastly, it goes over what Nodes of Ranvier and Myelin sheaths are and how they contribute to AP propagation down an axon by adding them on to the axon. It also asks how certain factors affect the propagation speed.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/S1_PassiveMembrane/S1_PassiveMembrane.ipynb" target="_blank">S1-PassiveMembrane</a></p>
-<p>A simple notebook going over NEURON basics and contains a Hodgkin–Huxley model with widgets.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/S2_ActionPotential/S2_ActionPotential.ipynb" target="_blank">S2-ActionPotenial</a></p>
-<p>An educational notebook going over the fundamentals of how a neuron fires and the voltage gated channels responible for the firing. Contains a NEURON model of a soma with widgets.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/S3_Burster/S3_Burster.ipynb" target="_blank">S3-Burster</a></p>
-<p>An educational notebook discussing one way neurons can display a bursting effect. Contains a NEURON model of a soma and axon with widgets.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/S4_Synapses/S4_Synapses.ipynb" target="_blank">S4-Synapses</a></p>
-<p>An educational notebook with NEURON model about how synapses operate.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/S5_CPG/S5_CPG.ipynb" target="_blank">S5-CPG</a></p>
-<p>An educational notebook with a NEURON modle about central pattern generates and how differnt movement patterns in horese may arise.</p>
-</li>
-<li><p><a href="https://colab.research.google.com/github/cyneuro/Basics-of-Neurons-and-Networks/blob/main/S6_STM_WTA/S6_STM_WTA.ipynb" target="_blank">S6-STM-WTA Networks</a></p>
-<p>Educational notebooks talking about short term memory(STM) and winner take all(WTA) networks</p>
-</li>
-</ul>
-</section>
+  <section class="tex2jax_ignore mathjax_ignore" id="biophysics-of-detailed-cells">
+<span id="content-single-cell-biophys-detailed"></span><h1>Biophysics of detailed cells<a class="headerlink" href="#biophysics-of-detailed-cells" title="Permalink to this heading">#</a></h1>
 </section>
 
     <script type="text/x-thebe-config">
@@ -487,7 +447,7 @@ Goes over the components of a neuron (in particular the soma) and asks the stude
         },
         kernelOptions: {
             name: "python3",
-            path: "./training"
+            path: "./single_cell"
         },
         predefinedOutput: true
     }
@@ -509,20 +469,6 @@ Goes over the components of a neuron (in particular the soma) and asks the stude
             </div>
             
             
-              
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
-
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> 
-  </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tutorials">Tutorials</a></li>
-</ul>
-  </nav></div>
-
-</div></div>
               
             
           </div>

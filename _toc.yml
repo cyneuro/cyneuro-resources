@@ -5,17 +5,8 @@ root: intro
 
 # Chapters are displayed on the top bar
 chapters:
-- file: single_cell
+- file: single_cell/single_cell
 - file: networks
 - file: communication
 - file: training/training
-  sections:
-  - file: training/learn_python
-  - file: training/microbit-1
-  - file: training/fear_lesson_plans
-  - file: training/med_curr
-  - file: training/nsf_ret/nsf_ret
-  - file: training/comp_neuro_tutorials
-  - file: training/mlai_camp
-  - file: training/software_workflows
   
