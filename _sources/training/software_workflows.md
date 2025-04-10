@@ -84,6 +84,8 @@ Below is a list of topics for the final projects. Each topic is followed by gene
 
    sMRI/fMRI processing involves several important steps such as movement correction and parcellation. Luckily, these steps are implemented in [FreeSurfer](https://freesurfer.net). Implement a worflow for a particular problem that uses FreeSurfer to process user-provided sMRI/fMRI data. As an example, the following materials cover analysis of resting-state fMRI data: [slides](https://mailmissouri-my.sharepoint.com/:b:/g/personal/nairs_umsystem_edu/EQIZ4jjrW81FhJrLcFsoebgB25-teaHs7clIQDeFkwVdQA?e=3yF4tG), [video](https://mailmissouri-my.sharepoint.com/:v:/g/personal/nairs_umsystem_edu/EXWeW3rWRR1AqlPKiLfBuMsBqjJEDdTnOvFm9bB-mUJp1A?e=M9n5ew).
 
+   Example datasets: [ConnectomeDB](https://db.humanconnectome.org/app/template/Login.vm;jsessionid=ED514C21C167195FB817197219944C2C), [fMRI dataset for Emotion Recognition](https://www.kaggle.com/datasets/irajahangari/fmri-dataset-for-emotion-recognition), [3T fMRI dataset](https://www.kaggle.com/datasets/mathurinache/3t-fmri-dataset).
+
    1.4 **Automated workflow for DSP of medical datasets.**
 
    Medical data come in a variety of spatial and temporal resolutions, ranging from the whole-brain recordings (EEG) to recordings from individual cells (single unit data). Choose a medical dataset and implement a workflow for performing digital signal processing (DSP) and analysis of the results. 
