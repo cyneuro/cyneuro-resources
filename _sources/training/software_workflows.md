@@ -78,11 +78,11 @@ Below is a list of topics for the final projects. Each topic is followed by gene
 
    Predictive connectome analysis (PCM) is a popular technique for analyzing brain connectivity. Traditionally, connectome matrices were built based on functional imaging data; however, [a recent study](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.629478/full) showed that combining functional and structural features might give better insights into brain organization. Find an sMRI/fMRI/sMRI+fMRI dataset and identify features which might help predict connectivity between brain regions.
 
-   1.2. TBD: projects from collaborators (St. Louis, Rolla, Alabama).
+   1.2. TBD: projects from collaborators (Rolla, Alabama).
 
    1.3 **Automated workflow for sMRI/fMRI data processing.**
 
-   sMRI/fMRI processing involves several important steps such as movement correction and parcellation. Luckily, these steps are implemented in [FreeSurfer](https://freesurfer.net). Implement a worflow for a particular problem that uses FreeSurfer to process user-provided sMRI/fMRI data.
+   sMRI/fMRI processing involves several important steps such as movement correction and parcellation. Luckily, these steps are implemented in [FreeSurfer](https://freesurfer.net). Implement a worflow for a particular problem that uses FreeSurfer to process user-provided sMRI/fMRI data. As an example, the following materials cover analysis of resting-state fMRI data: [slides](https://mailmissouri-my.sharepoint.com/:b:/g/personal/nairs_umsystem_edu/EQIZ4jjrW81FhJrLcFsoebgB25-teaHs7clIQDeFkwVdQA?e=3yF4tG), [video](https://mailmissouri-my.sharepoint.com/:v:/g/personal/nairs_umsystem_edu/EXWeW3rWRR1AqlPKiLfBuMsBqjJEDdTnOvFm9bB-mUJp1A?e=M9n5ew).
 
    1.4 **Automated workflow for DSP of medical datasets.**
 
