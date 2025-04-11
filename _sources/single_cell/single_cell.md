@@ -10,7 +10,7 @@
 - [Tutorials on single cell properties](https://cyneuro.github.io/cyneuro-resources/training/comp_neuro_tutorials.html#content-training-comp-neuro-tutorials)
 - [Tutorial: tune cells from AllenDB](https://github.com/cyneuro/single-cell-tuning/blob/main/tutorial_on_cell_tuning.ipynb)
 - Guidelines for manual tuning of channel conductances (TBA on ACT publication)
-- Guidelines for manual tuning of synapses and synaptic inputs (detailed cell)
+- [Guidelines for manual tuning of synapses and synaptic inputs (detailed cell)](https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/EcQzkfDwfPZFi0PkHa6MZ3YBaOq-1TtVbXnFtPw9Vb2uYg?e=6jX7EH)
 - Guidelines for building equivalent cells with reduced morphology
 - [Biophysics of detailed cells](content:single_cell:biophys_detailed)
 
