@@ -78,17 +78,21 @@ Below is a list of topics for the final projects. Each topic is followed by gene
 
    Predictive connectome analysis (PCM) is a popular technique for analyzing brain connectivity. Traditionally, connectome matrices were built based on functional imaging data; however, [a recent study](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.629478/full) showed that combining functional and structural features might give better insights into brain organization. Find an sMRI/fMRI/sMRI+fMRI dataset and identify features which might help predict connectivity between brain regions.
 
-   1.2. TBD: projects from collaborators (Rolla, Alabama).
-
-   1.3 **Automated workflow for sMRI/fMRI data processing.**
+   1.2 **Automated workflow for sMRI/fMRI data processing with FreeSurfer**
 
    sMRI/fMRI processing involves several important steps such as movement correction and parcellation. Luckily, these steps are implemented in [FreeSurfer](https://freesurfer.net). Implement a worflow for a particular problem that uses FreeSurfer to process user-provided sMRI/fMRI data. As an example, the following materials cover analysis of resting-state fMRI data: [slides](https://mailmissouri-my.sharepoint.com/:b:/g/personal/nairs_umsystem_edu/EQIZ4jjrW81FhJrLcFsoebgB25-teaHs7clIQDeFkwVdQA?e=3yF4tG), [video](https://mailmissouri-my.sharepoint.com/:v:/g/personal/nairs_umsystem_edu/EXWeW3rWRR1AqlPKiLfBuMsBqjJEDdTnOvFm9bB-mUJp1A?e=M9n5ew).
 
    Example datasets: [ConnectomeDB](https://db.humanconnectome.org/app/template/Login.vm;jsessionid=ED514C21C167195FB817197219944C2C), [fMRI dataset for Emotion Recognition](https://www.kaggle.com/datasets/irajahangari/fmri-dataset-for-emotion-recognition), [3T fMRI dataset](https://www.kaggle.com/datasets/mathurinache/3t-fmri-dataset).
 
+   1.3. **Automated workflow for fMRI data processing with AFNI**
+
+   [AFNI](https://afni.nimh.nih.gov) is an alternative to FreeSurfer which provides tools for automated processing of fMRI data. Choose any fMRI dataset from [OpenNeuro](https://openneuro.org) and implement an automated processing workflow based on [these guidelines](https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/EUunvNcFSsNImWTf1l2XPP4B1GY514W53ia34wPg6o2ihg?e=IwWzrE).
+
    1.4 **Automated workflow for DSP of medical datasets.**
 
-   Medical data come in a variety of spatial and temporal resolutions, ranging from the whole-brain recordings (EEG) to recordings from individual cells (single unit data). Choose a medical dataset and implement a workflow for performing digital signal processing (DSP) and analysis of the results. 
+   Medical data come in a variety of spatial and temporal resolutions, ranging from the whole-brain recordings (EEG) to recordings from individual cells (single unit data). Choose a medical dataset and implement a workflow for performing digital signal processing (DSP) and analysis of the results.
+
+   1.5. TBD: Projects from collaborators (Rolla).
 
 2. **Movement prediction using micro:bot.**
 
