@@ -90,9 +90,11 @@ Below is a list of topics for the final projects. Each topic is followed by gene
 
    1.4 **Automated workflow for DSP of medical datasets.**
 
-   Medical data come in a variety of spatial and temporal resolutions, ranging from the whole-brain recordings (EEG) to recordings from individual cells (single unit data). Choose a medical dataset and implement a workflow for performing digital signal processing (DSP) and analysis of the results.
+   Medical data come in a variety of spatial and temporal resolutions, ranging from the whole-brain recordings (EEG) to recordings from individual cells (single unit data). Choose a medical dataset and implement a workflow for performing digital signal processing (DSP) and analysis of the results. As an example, [this folder](https://mailmissouri-my.sharepoint.com/:f:/g/personal/nairs_umsystem_edu/Em7v9eSvAz5Kn5SX0Ljvb5IBrUxC8WHfNu37P_ApCCDbCA?e=c7cpza) contains EEG data, a paper describing denoising of these data (Zhang et al., 2020, "EEGdenoiseNet: A benchmark dataset for deep learning solutions of EEG denoising"), and a sample notebook demonstrating data loading. Consider one of the following projects:
 
-   1.5. TBD: Projects from collaborators (Rolla).
+      1.4.1. Pick 1-2 architectures described in the Zhang et al., 2020, paper and reproduce the reported results.
+
+      1.4.2. Compare the architectures from the Zhang et al., 2020, paper with the architecture from the Wang et al., 2022 paper (you can find it in the same folder).
 
 2. **Movement prediction using micro:bot.**
 
