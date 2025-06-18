@@ -12,7 +12,11 @@
 **Note:** you can also complete the projects using the <a href="https://python.microbit.org/v/3" target="_blank">micro:bit simulator</a>. That is, you don't need the hardware device to do these projects.
 Similarly, the section 'At the Camp' provides alternative exercises using the online simulator in case you don't have the hardware.
 
-4. Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiyohfjZ2smUPLBOPsEaihyzrgM3w8yUFc7HhFnW_mMXzurg/viewform?usp=sf_link" target="_blank">Quiz 0</a>.
+4.	Ask ChatGPT to teach you about using dictionaries in Python. Would you use a list or a dictionary to count the number of occurrences of each word in a text? And what if you want to just split the text into sentences?
+5.	Use ChatGPT to determine the best Python data type to solve the problem of finding the number of unique words in a text. Why is this datatype “the best”?
+
+
+46. Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSdiyohfjZ2smUPLBOPsEaihyzrgM3w8yUFc7HhFnW_mMXzurg/viewform?usp=sf_link" target="_blank">Quiz 0</a>.
 
 
 ## At the camp (days 1 and 2)
