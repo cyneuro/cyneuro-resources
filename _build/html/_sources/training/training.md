@@ -20,6 +20,11 @@
 :link-type: ref
 :::
 
+:::{grid-item-card} Microcredential courses
+:link: content:training:microcredential_courses
+:link-type: ref
+:::
+
 ::::
 
 
