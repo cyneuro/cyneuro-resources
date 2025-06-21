@@ -20,7 +20,9 @@
 
 ### Learning Python with micro:bit
 
-TBD
+You have begun the process with the Homework items 3, 4, and 5. Now use ChatGPT to generate quizzes for you to check your own learning of python.
+ChatGPT can also provide you with material to learn specific parts of python, including good sites. We want you to use ChatGPT as a learning assistant
+not just for this camp, but also for your school work. Cognitive neuroscience findings indicate that quizzing yourself is the most important way of long-term learning.
 
 ### Learning elements of AI with micro:bit
 
