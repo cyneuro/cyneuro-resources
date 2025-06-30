@@ -1,7 +1,7 @@
 (content:training:camps:mlai_camp)=
 # Machine Learning & AI Camp
 - <a href="https://engineering.missouri.edu/about/k-12-camps/about-k-12-camps/" target="_blank">Details and Registration</a>
-- <a href="https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/Ea6Hf5k9xwFAg8DiZE0MDksB9NXeiCGzXzM9EbUmCj0D_A?e=LJG9Ko&xsdata=MDV8MDJ8dm92d21AbWlzc291cmkuZWR1fGE2M2QxY2M5ODVjMjQ1ODNhNGM2MDhkY2FkMzI5MWEzfGUzZmVmZGJlZjdlOTQwMWJhNTFhMzU1ZTAxYjA1YTg5fDB8MHw2Mzg1NzU2Nzk5MDExMTIzMzR8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=QzJEYUxXMjFsYVluUmNUaTJac3hTZWRZWFpSUThPWUpMMXU3ZlBXbUhEOD0%3d" target="_blank">Camp outline</a>
+- <a href="https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/EZtLJrGvdVtEuxdUz07I2rwBZhwTPRwGYoM3N9Ofz8VoeQ?e=yja7jh" target="_blank">Camp outline</a>
 
 ## Before the camp (Homework)
 
@@ -43,8 +43,9 @@ Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRPAVEJj2C1vEaxQvOTH
 ## At the camp (day 2)
 
 ### Learning elements of control theory with micro:bot
+Link to a Line-following experiment -
+https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/cutebot_case08.html
 
-TBD
 
 ### Learning elements of AI with micro:bot
 
