@@ -1,7 +1,7 @@
 (content:training:camps:mlai_camp)=
 # Machine Learning & AI Camp
 - <a href="https://engineering.missouri.edu/about/k-12-camps/about-k-12-camps/" target="_blank">Details and Registration</a>
-- <a href="https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/EZtLJrGvdVtEuxdUz07I2rwBZhwTPRwGYoM3N9Ofz8VoeQ?e=yja7jh" target="_blank">Camp outline</a>
+- <a href="https://mailmissouri-my.sharepoint.com/:w:/g/personal/nairs_umsystem_edu/EZtLJrGvdVtEuxdUz07I2rwBZhwTPRwGYoM3N9Ofz8VoeQ?e=IWiGcJ" target="_blank">Camp outline</a>
 
 ## Before the camp (Homework)
 
@@ -42,12 +42,12 @@ Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLSfRPAVEJj2C1vEaxQvOTH
 
 ## At the camp (day 2)
 
-### Learning elements of control theory with micro:bot
-Link to a Line-following experiment -
-https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/cutebot_case08.html
+### Learning elements of control theory with Cutebot
+
+1. <a href="https://www.elecfreaks.com/learn-en/microbitKit/smart_cutebot/cutebot_case08.html" target="_blank">Cutebot experiment: Run along a black line</a>
 
 
-### Learning elements of AI with micro:bot
+### Learning elements of AI with Cutebot
 
 1. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_iris_mnist.ipynb" target="_blank">Classifying real datasets: Iris and MNIST</a>
 2. <a href="https://colab.research.google.com/github/cyneuro/ML_camp/blob/main/camp_cnn.ipynb" target="_blank">Convolutional Neural Networks</a>
